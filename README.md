@@ -1,0 +1,2 @@
+# prediction_for_NYC_taxis
+This project uses public data set from the NYC TLC website to look for the pick-up and drop off times, trip lengths, surcharges associated with the trip and the number of people taking the taxi through the day to suggest the best time to travel by taxi in NYC. This way, people can plan their trip ahead of time by checking our model which will have predictions of the best time for every day of the year.
